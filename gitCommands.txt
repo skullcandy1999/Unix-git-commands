@@ -11,4 +11,7 @@ git branch: Lists all branches in the repository.
 git checkout <branch>: Switches to a specified branch.
 git merge <branch>: Merges a specified branch into the current branch.
 git log: Displays the commit history.
-
+git diff: Shows changes between commits, branches, or the working directory.
+git reset <file>: Unstages a file, keeping the changes in the working directory.
+git stash: Stashes changes in the working directory for later use.
+git cherry-pick <commit>: Applies the changes from a specific commit to the current branch.
