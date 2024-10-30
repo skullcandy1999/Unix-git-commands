@@ -1,0 +1,9 @@
+Git commands -
+
+git init: Initializes a new Git repository.
+git clone <repository>: Clones a remote repository to your local machine.
+git status: Shows the current status of the repository, including staged and unstaged changes.
+git add <file>: Stages a file for the next commit.
+git commit -m "<message>": Commits staged changes with a message.
+git push: Pushes committed changes to a remote repository.
+git pull: Fetches and merges changes from a remote repository.
