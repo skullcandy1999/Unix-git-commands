@@ -7,3 +7,8 @@ git add <file>: Stages a file for the next commit.
 git commit -m "<message>": Commits staged changes with a message.
 git push: Pushes committed changes to a remote repository.
 git pull: Fetches and merges changes from a remote repository.
+git branch: Lists all branches in the repository.
+git checkout <branch>: Switches to a specified branch.
+git merge <branch>: Merges a specified branch into the current branch.
+git log: Displays the commit history.
+
